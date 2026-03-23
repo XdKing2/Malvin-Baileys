@@ -518,7 +518,7 @@ await sock.sendMessage(jid, {
 
 [![GitHub](https://img.shields.io/badge/GitHub-XdKing2-181717?style=flat-square&logo=github)](https://github.com/XdKing2)
 [![NPM](https://img.shields.io/badge/NPM-malvin--baileys-CB3837?style=flat-square&logo=npm)](https://npmjs.com/package/malvin-baileys)
-[![YouTube](https://img.shields.io/badge/YouTube-MalvinTech-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@malvintech2)
+[![YouTube](https://img.shields.io/badge/YouTube-MalvinTech-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@malvintech)
 
 </div>
 
