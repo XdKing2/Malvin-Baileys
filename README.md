@@ -8,7 +8,8 @@
 [![Downloads](https://img.shields.io/npm/dm/malvin-baileys.svg)](https://npmjs.com/package/malvin-baileys)
 [![GitHub stars](https://img.shields.io/github/stars/XdKing2/malvin-baileys?color=gold)](https://github.com/XdKing2/malvin-baileys)
 
-<img src="https://i.ibb.co/WpnxhhF/malvin-xd.jpg" width="280px" style="border-radius: 20px;">
+<img src="https://i.ibb.co/Wpnx2hhF/malvin-xd.jpg" width="350px">
+
 
 </div>
 
