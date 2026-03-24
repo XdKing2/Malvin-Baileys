@@ -1,6 +1,6 @@
 {
     "name": "malvin-baileys",
-    "version": "2.2.0",
+    "version": "2.2.2",
     "description": "A WebSockets library for interacting with WhatsApp Web",
     "keywords": [
         "whatsapp",
@@ -55,6 +55,7 @@
         "cache-manager": "4.0.1",
         "chalk": "^4.1.2",
         "futoin-hkdf": "^1.5.1",
+        "figlet": "^1.7.0",
         "gradient-string": "^2.0.2",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
